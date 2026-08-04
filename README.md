@@ -1,7 +1,9 @@
 # -_agenda_de_contactos_Java_- :.
 # 📒 Agenda de Contactos:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/b8332553-e99c-4d83-bf5c-7fb328a22e34" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/b8332553-e99c-4d83-bf5c-7fb328a22e34" />
+
+<img width="1276" height="1079" alt="image" src="https://github.com/user-attachments/assets/2eef0768-b334-4d65-a587-80bfbfa11397" />        
 
 ```
 Proyecto muy básico desarrollado en **Java 21 + IntelliJ IDEA + Consola + MySQL 8 + JDBC**, ideal
